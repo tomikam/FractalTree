@@ -11,7 +11,7 @@ public void draw()
 	background(0);   
 	stroke(0, 0, 255);   
 	line(320,520,320,620);   
-	drawBranches(320, 620, 100, Math.PI/2, .8);  //will add later 
+	drawBranches(320, 620, 100, Math.PI/2, .785);  //will add later 
 	stroke(0, 255, 0);
 	line(320, 520, 320, 420);
 	drawBranches(320, 420, 100, 3*Math.PI/2, .4);
